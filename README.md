@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# FashionScape Online
+Adds online functionality to the fashionscape plugin
